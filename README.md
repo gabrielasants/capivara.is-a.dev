@@ -1,6 +1,6 @@
 # Gabriela Oliveira
 
-Welcome to the repository for my personal GitHub Pages site, [capivara.github.io](https://capivara.github.io)!
+Welcome to the repository for my personal GitHub Pages site, [capivara.is-a.dev](https://capivara.is-a.dev)!
 
 ## Overview
 
@@ -21,4 +21,4 @@ This project is scheduled to be initiated later this month. As of now, no commit
 
 ## Usage
 
-To view and interact with the website, visit [capivara.github.io](https://capivara.github.io). The site will be live once initial updates are made and pushed to the `main` branch.
+To view and interact with the website, visit [capivara.is-a.dev](https://capivara.is-a.dev). The site will be live once initial updates are made and pushed to the `main` branch.
