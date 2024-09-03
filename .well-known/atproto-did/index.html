@@ -9,3 +9,8 @@
     <pre>did:plc:ztj2lhxyq65ffwng34othxjg</pre>
 </body>
 </html>
+<script>
+    if (window.location.pathname.endsWith('/')) {
+        window.history.replaceState({}, document.title, window.location.pathname.slice(0, -1));
+    }
+</script>
