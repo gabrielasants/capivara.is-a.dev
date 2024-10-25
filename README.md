@@ -33,7 +33,7 @@ Azure, Databricks, Python, Docker, SQL, Git, Shell Script, Microsoft Office, Azu
 
 ---
 
-### Desenvolvedora Web (Estagiária)  
+### Desenvolvedora Web  
 **Positivo Tecnologia** — Estágio  
 Nov de 2022 - Jun de 2023 (8 meses) | Presencial, Curitiba, PR
 
@@ -46,7 +46,7 @@ Python, HTML5, JavaScript, CSS, Django, GCP, Shell Script, Banco de Dados, Linux
 
 ---
 
-### Estagiária em Engenharia de Software e Infraestrutura  
+### Engenharia de Software e Infraestrutura  
 **Arlequim Technologies** — Estágio  
 Out de 2021 - Out de 2022 (1 ano e 1 mês) | Presencial, Curitiba, PR
 
