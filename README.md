@@ -1,24 +1,87 @@
-# Gabriela Oliveira
+# Gabriela Santos Oliveira
+**Desenvolvedora Back End**  
+Curitiba, Paraná | (41) 99507-3682 | gabrielasantos030@gmail.com
 
-Welcome to the repository for my personal GitHub Pages site, [capivara.is-a.dev](https://capivara.is-a.dev)!
+---
 
-## Overview
+## Experiência Profissional
 
-This repository is dedicated to hosting my personal website. Here, you will be able to explore more about me, my work, and various interests. This site is built using GitHub Pages and will serve as a platform to showcase my projects and connect with others.
+### Desenvolvedora Back End  
+**Embarca** — Tempo integral  
+Ago de 2024 - o momento (3 meses) | Presencial, Curitiba, PR
 
-## Current Status
+- Gerenciamento de sites conectados ao Nginx, incluindo Metabase, com integração ao AWS.
+- Monitoramento de performance de sistemas e automação de backups usando AWS.
+- Utilização de ferramentas como Ruby on Rails, e Python para desenvolvimento e automação.
+- Implementação de soluções para otimizar tempo de resposta e troubleshooting de sistemas.
 
-This project is scheduled to be initiated later this month. As of now, no commits have been made. Check back soon for updates and the launch of the site!
+**Competências:**  
+Nginx, Amazon Web Services (AWS), Ruby on Rails, Python, Linux, Docker, Apache Airflow, SQL, Git, Shell Script, Terraform.
 
-## Repository Structure
+---
 
-- **index.html**: The main entry point of the website.
-- **styles/**: Directory containing CSS files for styling the website.
-- **scripts/**: Directory containing JavaScript files for interactive elements.
-- **images/**: Directory for image assets used on the site.
-- **about.html**: A page with detailed information about me.
-- **contact.html**: A page with contact information.
+### Cloud Consultant II  
+**Capgemini** — Tempo integral  
+Nov de 2023 - Jul de 2024 (9 meses) | Remota
 
-## Usage
+- Consultoria em soluções de cloud para clientes corporativos, focando em otimização de infraestrutura no Azure.
+- Implementação de automações e otimizações usando Databricks e inteligência artificial no Azure.
+- Desenvolvimento de scripts em Python e Shell Script para automação de rotinas de infraestrutura e dados.
 
-To view and interact with the website, visit [capivara.is-a.dev](https://capivara.is-a.dev). The site will be live once initial updates are made and pushed to the `main` branch.
+**Competências:**  
+Azure, Databricks, Python, Docker, SQL, Git, Shell Script, Microsoft Office, Azure DevOps, Big Data, Inteligência Artificial, JavaScript, Terraform.
+
+---
+
+### Desenvolvedora Web (Estagiária)  
+**Positivo Tecnologia** — Estágio  
+Nov de 2022 - Jun de 2023 (8 meses) | Presencial, Curitiba, PR
+
+- Desenvolvimento de aplicações web utilizando Python, HTML5, JavaScript e Django.
+- Implementação de APIs e integração com serviços do Google Cloud Platform (GCP).
+- Auxílio na implementação de scripts de automação e no monitoramento de sistemas.
+
+**Competências:**  
+Python, HTML5, JavaScript, CSS, Django, GCP, Shell Script, Banco de Dados, Linux.
+
+---
+
+### Estagiária em Engenharia de Software e Infraestrutura  
+**Arlequim Technologies** — Estágio  
+Out de 2021 - Out de 2022 (1 ano e 1 mês) | Presencial, Curitiba, PR
+
+- Implementação e monitoramento de sistemas usando Grafana e Zabbix.
+- Manutenção e automação de infraestrutura baseada em Linux e PowerShell.
+- Teste e desenvolvimento de sistemas em ambiente de produção.
+
+**Competências:**  
+Linux, Zabbix, Grafana, PowerShell, Shell Script, Teste de Sistemas, Banco de Dados, Microsoft Office.
+
+---
+
+## Formação Acadêmica
+
+**Universidade Positivo**  
+Curso: Análise e Desenvolvimento de Sistemas  
+Período: 3⁰
+
+---
+
+## Certificações
+
+- **Microsoft Certified: Azure AI Fundamentals** 
+
+---
+
+## Habilidades Técnicas
+
+- **Linguagens e Ferramentas:** Python, Ruby on Rails, SQL, Shell Script, HTML5, JavaScript, Docker, Git, Terraform, Nginx.
+- **Plataformas e Cloud:** AWS, Azure, GCP, Databricks, Apache Airflow.
+- **Monitoramento:** Zabbix, Grafana.
+
+---
+
+## Idiomas
+
+- Português (Nativo)  
+- Inglês (Intermediário)
