@@ -1,6 +1,6 @@
 # Gabriela Santos Oliveira
 **Desenvolvedora Back End**  
-Curitiba, Paraná | (41) 99507-3682 | gabrielasantos030@gmail.com
+Curitiba, Paraná | drwcaryz@gmail.com
 
 ---
 
