@@ -8,7 +8,7 @@ Curitiba, Paraná | drwcaryz@gmail.com
 
 ### Desenvolvedora Back End  
 **Embarca** — Tempo integral  
-Ago de 2024 - o momento (3 meses) | Presencial, Curitiba, PR
+Ago de 2024 - o momento | Presencial, Curitiba, PR
 
 - Gerenciamento de sites conectados ao Nginx, incluindo Metabase, com integração ao AWS.
 - Monitoramento de performance de sistemas e automação de backups usando AWS.
