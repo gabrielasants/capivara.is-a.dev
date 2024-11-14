@@ -84,4 +84,4 @@ Período: 3⁰
 ## Idiomas
 
 - Português (Nativo)  
-- Inglês (Intermediário)
+- Inglês (Avançado)
